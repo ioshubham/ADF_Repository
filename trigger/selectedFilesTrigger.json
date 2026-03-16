@@ -1,0 +1,23 @@
+{
+	"name": "selectedFilesTrigger",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Stopped",
+		"pipelines": [],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Month",
+				"interval": 12,
+				"startTime": "2026-03-15T16:42:00",
+				"endTime": "2026-03-16T16:50:00",
+				"timeZone": "India Standard Time",
+				"schedule": {
+					"monthDays": [
+						-1
+					]
+				}
+			}
+		}
+	}
+}

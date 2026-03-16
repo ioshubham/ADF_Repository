@@ -1,0 +1,9 @@
+{
+	"name": "adf-course-shubhu",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7f01d2d3-2676-4cc1-982c-babcef7991ae",
+		"tenantId": "d8ecb8a2-acc4-4261-adae-407b165c67a6"
+	}
+}
